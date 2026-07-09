@@ -4,3 +4,4 @@ for animal in animals:
 animals = ['dog', 'cat', 'bird','fish','pig']
 for animal in animals:
     print(animal,'has',len(animal),'letters')
+
