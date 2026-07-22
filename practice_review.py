@@ -18,3 +18,4 @@ for number in range(2):
 
 for number in range(len(skills)):
     print(number)
+
